@@ -7,10 +7,10 @@ $ pkg install python
 
 $ python -m pip install --upgrade pip
 
-$ rm -rf KL-FILE
+$ rm -rf FILE-CLONE
 
-$ git clone https://github.com/Mrxaiver/KL-FILE
+$ git clone https://github.com/MAHIN-XD/FILE-CLONE
 
-$ cd KL-FILE
+$ cd FILE-CLONE
 
-$ python PIE.py
+$ python Mahin-file-clon.py
