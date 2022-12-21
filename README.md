@@ -13,4 +13,4 @@ $ git clone https://github.com/MAHIN-XD/FILE-CLONE
 
 $ cd FILE-CLONE
 
-$ python Mahin-file-clon.py
+$ python Mahin-file.2.py
